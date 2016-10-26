@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name w_pth_plcc)(type KiCad)(uri /home/raul/Documents/KIcad/SKINC_Implantable_PCB_V1_scratch/custom_libraries/WALTER/w_pth_plcc.pretty)(options "")(descr ""))
+)
